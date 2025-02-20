@@ -6,6 +6,7 @@
         public string Username { get; set; } // Tên hiển thị của người dùng
         public string Email { get; set; } // Địa chỉ email của người dùng
         public DateTime CreatedAt { get; set; } // Ngày tạo tài khoản
+  
 
         // Danh sách đánh giá của người dùng
         public ICollection<Review> Reviews { get; set; }

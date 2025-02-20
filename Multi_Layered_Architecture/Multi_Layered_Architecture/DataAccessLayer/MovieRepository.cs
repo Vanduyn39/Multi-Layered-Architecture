@@ -1,4 +1,5 @@
-﻿using Multi_Layered_Architecture.CoreLayer;
+﻿using Microsoft.EntityFrameworkCore;
+using Multi_Layered_Architecture.CoreLayer;
 
 namespace Multi_Layered_Architecture.DataAccessLayer
 {

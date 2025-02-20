@@ -1,58 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\",
+  "WorkspaceRootPath": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\servicelayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\servicelayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\servicelayer\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\servicelayer\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\dataaccesslayer\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\dataaccesslayer\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\dataaccesslayer\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\dataaccesslayer\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\dataaccesslayer\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\movieseriestag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\moviesseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\moviesseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\servicelayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\servicelayer\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\servicelayer\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\servicelayer\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\dataaccesslayer\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\dataaccesslayer\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|e:\\users\\t\u00E0i li\u1EC7u\\ueh\\ktpmhdv\\multi-layered-architecture\\multi_layered_architecture\\multi_layered_architecture\\corelayer\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5A781E-A4B2-4EE6-9EF5-E684FEC0C80E}|Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj|solutionrelative:multi_layered_architecture\\corelayer\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,13 +78,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\Program.cs",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\Program.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\Program.cs*",
+              "RelativeToolTip": "Multi_Layered_Architecture\\Program.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:29:18.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Rating.cs",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\Rating.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Rating.cs",
+              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\Rating.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:10:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoviesSeries.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\MoviesSeries.cs",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\MoviesSeries.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\MoviesSeries.cs",
+              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\MoviesSeries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:00:42.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Movie.cs",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\Movie.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Movie.cs",
+              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:23:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\appsettings.json",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\appsettings.json",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\appsettings.json*",
+              "RelativeToolTip": "Multi_Layered_Architecture\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T08:57:45.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MovieRepository.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\MovieRepository.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\MovieRepository.cs",
               "RelativeDocumentMoniker": "Multi_Layered_Architecture\\DataAccessLayer\\MovieRepository.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\MovieRepository.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\MovieRepository.cs",
               "RelativeToolTip": "Multi_Layered_Architecture\\DataAccessLayer\\MovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwBAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T08:15:13.455Z",
               "EditorCaption": ""
@@ -84,36 +157,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\ServiceLayer\\IMovieService.cs",
-              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\ServiceLayer\\IMovieService.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\ServiceLayer\\IMovieService.cs",
-              "RelativeToolTip": "Multi_Layered_Architecture\\ServiceLayer\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "MovieSeriesTag.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\MovieSeriesTag.cs",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\MovieSeriesTag.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\MovieSeriesTag.cs",
+              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\MovieSeriesTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:26:36.143Z",
+              "WhenOpened": "2025-02-20T08:11:20.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Review.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Review.cs",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\Review.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Review.cs",
+              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:24:19.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "Multi_Layered_Architecture\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:27:44.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\User.cs",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\User.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\User.cs",
+              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:09:56.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MovieService.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\ServiceLayer\\MovieService.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\ServiceLayer\\MovieService.cs",
               "RelativeDocumentMoniker": "Multi_Layered_Architecture\\ServiceLayer\\MovieService.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\ServiceLayer\\MovieService.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\ServiceLayer\\MovieService.cs",
               "RelativeToolTip": "Multi_Layered_Architecture\\ServiceLayer\\MovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T07:22:57.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "MovieController.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\Controllers\\MovieController.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "Multi_Layered_Architecture\\Controllers\\MovieController.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\Controllers\\MovieController.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\Controllers\\MovieController.cs",
               "RelativeToolTip": "Multi_Layered_Architecture\\Controllers\\MovieController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,50 +234,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\Program.cs",
-              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\Program.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\Program.cs",
-              "RelativeToolTip": "Multi_Layered_Architecture\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\ServiceLayer\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\ServiceLayer\\IMovieService.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\ServiceLayer\\IMovieService.cs",
+              "RelativeToolTip": "Multi_Layered_Architecture\\ServiceLayer\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:29:18.696Z",
+              "WhenOpened": "2025-02-20T07:26:36.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rating.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Rating.cs",
-              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\Rating.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Rating.cs",
-              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\Rating.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:10:24.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MovieSeriesTag.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\MovieSeriesTag.cs",
-              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\MovieSeriesTag.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\MovieSeriesTag.cs",
-              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\MovieSeriesTag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:11:20.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\IMovieRepository.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\IMovieRepository.cs",
               "RelativeDocumentMoniker": "Multi_Layered_Architecture\\DataAccessLayer\\IMovieRepository.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\IMovieRepository.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\IMovieRepository.cs",
               "RelativeToolTip": "Multi_Layered_Architecture\\DataAccessLayer\\IMovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,71 +260,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Tag.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Tag.cs",
+              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Tag.cs",
               "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\Tag.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Tag.cs",
+              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\KTPMHDV\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Tag.cs",
               "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T08:10:45.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\User.cs",
-              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\User.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\User.cs",
-              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:09:56.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\DataAccessLayer\\AppDbContext.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeToolTip": "Multi_Layered_Architecture\\DataAccessLayer\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:27:44.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Review.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Review.cs",
-              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\Review.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Review.cs",
-              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:24:19.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Movie.cs",
-              "RelativeDocumentMoniker": "Multi_Layered_Architecture\\CoreLayer\\Movie.cs",
-              "ToolTip": "E:\\Users\\T\u00E0i li\u1EC7u\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\CoreLayer\\Movie.cs",
-              "RelativeToolTip": "Multi_Layered_Architecture\\CoreLayer\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:23:57.037Z",
               "EditorCaption": ""
             }
           ]

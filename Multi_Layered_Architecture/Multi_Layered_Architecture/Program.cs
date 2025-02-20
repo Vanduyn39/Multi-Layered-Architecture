@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Multi_Layered_Architecture.DataAccessLayer;
 using Multi_Layered_Architecture.ServiceLayer;
@@ -39,6 +40,8 @@ app.UseAuthorization(); // Sử dụng xác thực
 
 // Định nghĩa các endpoint cho các controller
 app.MapControllers();
+
+app.Urls.Add("http://localhost:3000");
 
 // Chạy ứng dụng
 app.Run();
