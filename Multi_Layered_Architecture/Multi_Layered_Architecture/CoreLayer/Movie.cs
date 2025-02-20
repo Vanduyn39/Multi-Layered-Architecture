@@ -1,4 +1,4 @@
-﻿namespace Multi_Layered_Architecture
+﻿namespace Multi_Layered_Architecture.CoreLayer
 {
     public class Movie
     {
@@ -7,6 +7,7 @@
         public string Genre { get; set; }
         public DateTime ReleaseDate { get; set; }
         public string Description { get; set; }
+        public ICollection<MovieSeriesTag> MovieSeriesTags { get; set; }
     }
 
 }

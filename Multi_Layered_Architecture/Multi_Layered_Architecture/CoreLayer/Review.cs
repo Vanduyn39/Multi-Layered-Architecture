@@ -1,4 +1,4 @@
-﻿namespace Multi_Layered_Architecture
+﻿namespace Multi_Layered_Architecture.CoreLayer
 {
     public class Review
     {
