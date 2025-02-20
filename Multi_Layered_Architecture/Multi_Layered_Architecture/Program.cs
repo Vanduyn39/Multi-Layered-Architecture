@@ -1,7 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using MovieSeries.DataAccessLayer;
 using Multi_Layered_Architecture.DataAccessLayer;
 using Multi_Layered_Architecture.ServiceLayer;
 
