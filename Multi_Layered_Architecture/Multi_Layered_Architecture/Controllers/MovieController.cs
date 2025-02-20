@@ -16,14 +16,14 @@ namespace Multi_Layered_Architecture.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Movie>>> GetMovies()
+        public async Task<ActionResult<IEnumerable<MoviesSeries>>> GetMovies()
         {
             var movies = await _movieService.GetAllMoviesAsync();
             return Ok(movies);
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Movie>> GetMovie(int id)
+        public async Task<ActionResult<MoviesSeries>> GetMovie(int id)
         {
             var movie = await _movieService.GetMovieByIdAsync(id);
             if (movie == null) return NotFound();
@@ -31,10 +31,10 @@ namespace Multi_Layered_Architecture.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult> AddMovie(Movie movie)
+        public async Task<ActionResult> AddMovie(MoviesSeries movie)
         {
             await _movieService.AddMovieAsync(movie);
-            return CreatedAtAction(nameof(GetMovie), new { id = movie.Id }, movie);
+            return CreatedAtAction(nameof(GetMovie), new { id = movie.movie_series_id }, movie);
         }
     }
 

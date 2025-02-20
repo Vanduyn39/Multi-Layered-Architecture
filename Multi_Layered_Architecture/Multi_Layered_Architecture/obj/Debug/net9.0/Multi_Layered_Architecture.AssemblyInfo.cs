@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multi_Layered_Architecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa0dff60c7f48ef8a21bad7a40aeb399cb3af00e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multi_Layered_Architecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multi_Layered_Architecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

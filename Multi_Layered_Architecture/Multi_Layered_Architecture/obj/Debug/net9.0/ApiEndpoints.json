@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Multi_Layered_Architecture.CoreLayer.Movie, Multi_Layered_Architecture, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Multi_Layered_Architecture.CoreLayer.MoviesSeries, Multi_Layered_Architecture, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,7 +29,7 @@
     "Parameters": [
       {
         "Name": "movie",
-        "Type": "Multi_Layered_Architecture.CoreLayer.Movie",
+        "Type": "Multi_Layered_Architecture.CoreLayer.MoviesSeries",
         "IsRequired": true
       }
     ],
@@ -51,7 +51,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Multi_Layered_Architecture.CoreLayer.Movie",
+        "Type": "Multi_Layered_Architecture.CoreLayer.MoviesSeries",
         "MediaTypes": [
           "text/plain",
           "application/json",

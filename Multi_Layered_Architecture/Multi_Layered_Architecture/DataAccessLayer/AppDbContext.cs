@@ -7,7 +7,7 @@ namespace Multi_Layered_Architecture.DataAccessLayer
 {
     public class AppDbContext : DbContext
     {
-        public DbSet<Movie> Movies { get; set; }
+        public DbSet<MoviesSeries> MoviesSeries { get; set; }
         public DbSet<Review> Reviews { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Rating> Ratings { get; set; }
@@ -36,13 +36,13 @@ namespace Multi_Layered_Architecture.DataAccessLayer
             modelBuilder.Entity<Review>()
                 .HasOne(r => r.User) // Mối quan hệ với User
                 .WithMany(u => u.Reviews) // Một User có nhiều Reviews
-                .HasForeignKey(r => r.UserId); // Khóa ngoại
+                .HasForeignKey(r => r.user_id); // Khóa ngoại
 
             // Định nghĩa quan hệ giữa User và Rating
             modelBuilder.Entity<Rating>()
                 .HasOne(r => r.User) // Mối quan hệ với User
                 .WithMany(u => u.Ratings) // Một User có nhiều Ratings
-                .HasForeignKey(r => r.UserId); // Khóa ngoại
+                .HasForeignKey(r => r.user_id); // Khóa ngoại
 
             // Định nghĩa quan hệ giữa MovieSeries và Review
             modelBuilder.Entity<Review>()
@@ -54,7 +54,7 @@ namespace Multi_Layered_Architecture.DataAccessLayer
             modelBuilder.Entity<Rating>()
                 .HasOne(r => r.MovieSeries) // Mối quan hệ với MoviesSeries
                 .WithMany(ms => ms.Ratings) // Một MoviesSeries có nhiều Ratings
-                .HasForeignKey(r => r.MovieSeriesId); // Khóa ngoại
+                .HasForeignKey(r => r.movie_series_id); // Khóa ngoại
         }
     }
 }

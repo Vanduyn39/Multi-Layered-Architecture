@@ -1,6 +1,10 @@
-@Multi_Layered_Architecture_HostAddress = http://localhost:5189
+@Multi_Layered_Architecture_HostAddress = http://localhost:3000
 
 GET {{Multi_Layered_Architecture_HostAddress}}/weatherforecast/
 Accept: application/json
+
+###
+
+GET {{Multi_Layered_Architecture_HostAddress}}/api/movie
 
 ###

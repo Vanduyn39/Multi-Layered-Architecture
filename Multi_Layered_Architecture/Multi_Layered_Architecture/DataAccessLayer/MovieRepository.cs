@@ -12,48 +12,48 @@ namespace Multi_Layered_Architecture.DataAccessLayer
             _context = context;
         }
 
-        public async Task<IEnumerable<Movie>> GetAllMoviesAsync()
+        public async Task<IEnumerable<MoviesSeries>> GetAllMoviesAsync()
         {
-            return await _context.Movies.ToListAsync();
+            return await _context.MoviesSeries.ToListAsync();
         }
 
-        public async Task<Movie> GetMovieByIdAsync(int id)
+        public async Task<MoviesSeries> GetMovieByIdAsync(int id)
         {
-            return await _context.Movies.FindAsync(id);
+            return await _context.MoviesSeries.FindAsync(id);
         }
 
-        public async Task AddMovieAsync(Movie movie)
+        public async Task AddMovieAsync(MoviesSeries movie)
         {
-            await _context.Movies.AddAsync(movie);
+            await _context.MoviesSeries.AddAsync(movie);
             await _context.SaveChangesAsync();
         }
 
-        public async Task UpdateMovieAsync(Movie movie)
+        public async Task UpdateMovieAsync(MoviesSeries movie)
         {
-            _context.Movies.Update(movie);
+            _context.MoviesSeries.Update(movie);
             await _context.SaveChangesAsync();
         }
 
         public async Task DeleteMovieAsync(int id)
         {
-            var movie = await _context.Movies.FindAsync(id);
+            var movie = await _context.MoviesSeries.FindAsync(id);
             if (movie != null)
             {
-                _context.Movies.Remove(movie);
+                _context.MoviesSeries.Remove(movie);
                 await _context.SaveChangesAsync();
             }
         }
 
-        public async Task<IEnumerable<Movie>> GetMoviesByGenreAsync(string genre)
+        public async Task<IEnumerable<MoviesSeries>> GetMoviesByGenreAsync(string genre)
         {
-            return await _context.Movies
+            return await _context.MoviesSeries
                 .Where(m => m.Genre.ToLower() == genre.ToLower())
                 .ToListAsync();
         }
 
-        public async Task<IEnumerable<Movie>> SearchMoviesAsync(string searchTerm)
+        public async Task<IEnumerable<MoviesSeries>> SearchMoviesAsync(string searchTerm)
         {
-            return await _context.Movies
+            return await _context.MoviesSeries
                 .Where(m => m.Title.ToLower().Contains(searchTerm.ToLower()) ||
                              m.Description.ToLower().Contains(searchTerm.ToLower()))
                 .ToListAsync();
