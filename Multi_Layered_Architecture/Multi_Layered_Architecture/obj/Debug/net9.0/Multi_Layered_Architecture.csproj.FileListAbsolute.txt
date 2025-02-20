@@ -1,0 +1,8 @@
+E:\Users\Tài liệu\ueh\Multi-Layered-Architecture\Multi_Layered_Architecture\Multi_Layered_Architecture\obj\Debug\net9.0\Multi_Layered_Architecture.csproj.AssemblyReference.cache
+E:\Users\Tài liệu\ueh\Multi-Layered-Architecture\Multi_Layered_Architecture\Multi_Layered_Architecture\obj\Debug\net9.0\Multi_Layered_Architecture.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Tài liệu\ueh\Multi-Layered-Architecture\Multi_Layered_Architecture\Multi_Layered_Architecture\obj\Debug\net9.0\Multi_Layered_Architecture.AssemblyInfoInputs.cache
+E:\Users\Tài liệu\ueh\Multi-Layered-Architecture\Multi_Layered_Architecture\Multi_Layered_Architecture\obj\Debug\net9.0\Multi_Layered_Architecture.AssemblyInfo.cs
+E:\Users\Tài liệu\ueh\Multi-Layered-Architecture\Multi_Layered_Architecture\Multi_Layered_Architecture\obj\Debug\net9.0\Multi_Layered_Architecture.csproj.CoreCompileInputs.cache
+E:\Users\Tài liệu\ueh\Multi-Layered-Architecture\Multi_Layered_Architecture\Multi_Layered_Architecture\obj\Debug\net9.0\Multi_Layered_Architecture.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\Tài liệu\ueh\Multi-Layered-Architecture\Multi_Layered_Architecture\Multi_Layered_Architecture\obj\Debug\net9.0\Multi_Layered_Architecture.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\Tài liệu\ueh\Multi-Layered-Architecture\Multi_Layered_Architecture\Multi_Layered_Architecture\obj\Debug\net9.0\Multi_Layered_Architecture.sourcelink.json

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3ibxw8UQn8=",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Tài liệu\\ueh\\Multi-Layered-Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture\\Multi_Layered_Architecture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
